@@ -7,3 +7,5 @@ myenv\Lib\site-packages\qt5_applications\Qt\bin\designer.exe
 
 # Convert file .ui to .py
 pyuic5 -x MainWindow.ui -o MainWindow.py
+
+# Branch-feature
